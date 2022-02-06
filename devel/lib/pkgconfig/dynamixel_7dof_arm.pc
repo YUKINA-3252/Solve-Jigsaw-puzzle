@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/dynamixel_7dof_arm/lib/pkgconfig/dynamixel_7dof_arm.pc

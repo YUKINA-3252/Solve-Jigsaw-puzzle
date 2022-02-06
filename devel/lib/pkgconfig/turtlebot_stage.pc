@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/turtlebot_stage/lib/pkgconfig/turtlebot_stage.pc

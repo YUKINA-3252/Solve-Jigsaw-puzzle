@@ -1,0 +1,4 @@
+Symlinking /home/mech-user/enshu_ws/devel/share/kobuki_bumper2pc/cmake/kobuki_bumper2pcConfig.cmake
+Symlinking /home/mech-user/enshu_ws/devel/share/kobuki_bumper2pc/cmake/kobuki_bumper2pcConfig-version.cmake
+Symlinking /home/mech-user/enshu_ws/devel/lib/libkobuki_bumper2pc_nodelet.so
+Symlinking /home/mech-user/enshu_ws/devel/lib/pkgconfig/kobuki_bumper2pc.pc

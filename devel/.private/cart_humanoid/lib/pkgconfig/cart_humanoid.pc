@@ -1,0 +1,8 @@
+prefix=/home/mech-user/enshu_ws/devel/.private/cart_humanoid
+
+Name: cart_humanoid
+Description: Description of cart_humanoid
+Version: 7.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

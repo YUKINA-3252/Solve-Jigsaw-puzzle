@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/kadai/share/kadai/cmake/kadaiConfig-version.cmake

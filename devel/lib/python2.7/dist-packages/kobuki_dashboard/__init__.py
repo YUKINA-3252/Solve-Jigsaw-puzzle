@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/kobuki_dashboard/lib/python2.7/dist-packages/kobuki_dashboard/__init__.py

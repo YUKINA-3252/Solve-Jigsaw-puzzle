@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/turtlebot_msgs/share/roseus/ros/turtlebot_msgs/manifest.l

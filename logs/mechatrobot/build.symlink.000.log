@@ -1,0 +1,4 @@
+Symlinking /home/mech-user/enshu_ws/devel/share/mechatrobot/cmake/mechatrobotConfig.cmake
+Symlinking /home/mech-user/enshu_ws/devel/share/mechatrobot/cmake/mechatrobotConfig-version.cmake
+Symlinking /home/mech-user/enshu_ws/devel/lib/mechatrobot/robot_control
+Symlinking /home/mech-user/enshu_ws/devel/lib/pkgconfig/mechatrobot.pc

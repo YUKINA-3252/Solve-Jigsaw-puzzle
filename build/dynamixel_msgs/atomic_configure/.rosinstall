@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mech-user/enshu_ws/devel/.private/dynamixel_msgs/setup.sh

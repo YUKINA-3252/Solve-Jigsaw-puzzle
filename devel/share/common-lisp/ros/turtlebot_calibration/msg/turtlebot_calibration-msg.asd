@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/turtlebot_calibration/share/common-lisp/ros/turtlebot_calibration/msg/turtlebot_calibration-msg.asd

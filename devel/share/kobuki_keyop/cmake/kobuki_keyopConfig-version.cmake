@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/kobuki_keyop/share/kobuki_keyop/cmake/kobuki_keyopConfig-version.cmake

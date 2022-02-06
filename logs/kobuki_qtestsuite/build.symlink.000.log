@@ -1,0 +1,6 @@
+Symlinking /home/mech-user/enshu_ws/devel/share/kobuki_qtestsuite/cmake/kobuki_qtestsuiteConfig-version.cmake
+Symlinking /home/mech-user/enshu_ws/devel/share/kobuki_qtestsuite/cmake/kobuki_qtestsuiteConfig.cmake
+Symlinking /home/mech-user/enshu_ws/devel/bin/kobuki_qtestsuite
+Symlinking /home/mech-user/enshu_ws/devel/bin/cmake.lock
+Symlinking /home/mech-user/enshu_ws/devel/lib/python2.7/dist-packages/kobuki_qtestsuite/__init__.py
+Symlinking /home/mech-user/enshu_ws/devel/lib/pkgconfig/kobuki_qtestsuite.pc

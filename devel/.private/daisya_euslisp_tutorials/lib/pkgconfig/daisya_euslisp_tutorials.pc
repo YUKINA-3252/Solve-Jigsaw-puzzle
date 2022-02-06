@@ -1,0 +1,8 @@
+prefix=/home/mech-user/enshu_ws/devel/.private/daisya_euslisp_tutorials
+
+Name: daisya_euslisp_tutorials
+Description: Description of daisya_euslisp_tutorials
+Version: 7.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/mechatrobot/share/mechatrobot/cmake/mechatrobotConfig.cmake

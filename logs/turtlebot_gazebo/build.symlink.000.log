@@ -1,0 +1,4 @@
+Symlinking /home/mech-user/enshu_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig-version.cmake
+Symlinking /home/mech-user/enshu_ws/devel/share/turtlebot_gazebo/cmake/turtlebot_gazeboConfig.cmake
+Symlinking /home/mech-user/enshu_ws/devel/lib/pkgconfig/turtlebot_gazebo.pc
+Symlinking /home/mech-user/enshu_ws/devel/etc/catkin/profile.d/25.turtlebot-gazebo.sh

@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/dxl_armed_turtlebot/lib/pkgconfig/dxl_armed_turtlebot.pc

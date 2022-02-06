@@ -1,0 +1,3 @@
+Symlinking /home/mech-user/enshu_ws/devel/share/dynamixel_urdf/cmake/dynamixel_urdfConfig-version.cmake
+Symlinking /home/mech-user/enshu_ws/devel/share/dynamixel_urdf/cmake/dynamixel_urdfConfig.cmake
+Symlinking /home/mech-user/enshu_ws/devel/lib/pkgconfig/dynamixel_urdf.pc

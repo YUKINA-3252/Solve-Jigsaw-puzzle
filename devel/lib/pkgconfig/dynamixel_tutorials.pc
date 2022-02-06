@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/dynamixel_tutorials/lib/pkgconfig/dynamixel_tutorials.pc

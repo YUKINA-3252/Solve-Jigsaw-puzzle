@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/turtlebot_actions/share/roseus/ros/turtlebot_actions/msg/TurtlebotMoveAction.l

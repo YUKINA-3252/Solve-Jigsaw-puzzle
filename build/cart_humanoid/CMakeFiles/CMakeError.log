@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_eadd4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_eadd4.dir/build.make CMakeFiles/cmTC_eadd4.dir/build
+make[1]: ディレクトリ '/home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_eadd4.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_eadd4.dir/CheckSymbolExists.c.o   -c /home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_eadd4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eadd4.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_eadd4.dir/CheckSymbolExists.c.o  -o cmTC_eadd4 
+CMakeFiles/cmTC_eadd4.dir/CheckSymbolExists.c.o: 関数 `main' 内:
+CheckSymbolExists.c:(.text+0x1b): `pthread_create' に対する定義されていない参照です
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_eadd4.dir/build.make:97: recipe for target 'cmTC_eadd4' failed
+make[1]: *** [cmTC_eadd4] Error 1
+make[1]: ディレクトリ '/home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: recipe for target 'cmTC_eadd4/fast' failed
+make: *** [cmTC_eadd4/fast] Error 2
+
+File /home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_65b3b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_65b3b.dir/build.make CMakeFiles/cmTC_65b3b.dir/build
+make[1]: ディレクトリ '/home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp' に入ります
+Building C object CMakeFiles/cmTC_65b3b.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_65b3b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_65b3b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65b3b.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_65b3b.dir/CheckFunctionExists.c.o  -o cmTC_65b3b -lpthreads 
+/usr/bin/ld: -lpthreads が見つかりません
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_65b3b.dir/build.make:97: recipe for target 'cmTC_65b3b' failed
+make[1]: *** [cmTC_65b3b] Error 1
+make[1]: ディレクトリ '/home/mech-user/enshu_ws/build/cart_humanoid/CMakeFiles/CMakeTmp' から出ます
+Makefile:126: recipe for target 'cmTC_65b3b/fast' failed
+make: *** [cmTC_65b3b/fast] Error 2
+
+

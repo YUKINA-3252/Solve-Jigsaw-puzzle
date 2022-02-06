@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/turtlebot_gazebo/etc/catkin/profile.d/25.turtlebot-gazebo.sh

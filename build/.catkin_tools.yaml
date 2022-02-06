@@ -1,0 +1,6 @@
+devel_space: /home/mech-user/enshu_ws/devel
+install: false
+install_space: /home/mech-user/enshu_ws/install
+profile: default
+source_space: /home/mech-user/enshu_ws/src
+workspace: /home/mech-user/enshu_ws

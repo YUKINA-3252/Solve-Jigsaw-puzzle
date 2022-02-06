@@ -1,0 +1,8 @@
+prefix=/home/mech-user/enshu_ws/devel/.private/mechatrobot
+
+Name: mechatrobot
+Description: Description of mechatrobot
+Version: 7.0.0
+Cflags: -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libtinyxml.so
+Requires: 

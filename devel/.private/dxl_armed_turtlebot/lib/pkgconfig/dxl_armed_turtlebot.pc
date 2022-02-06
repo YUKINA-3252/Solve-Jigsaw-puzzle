@@ -1,0 +1,8 @@
+prefix=/home/mech-user/enshu_ws/devel/.private/dxl_armed_turtlebot
+
+Name: dxl_armed_turtlebot
+Description: Description of dxl_armed_turtlebot
+Version: 7.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

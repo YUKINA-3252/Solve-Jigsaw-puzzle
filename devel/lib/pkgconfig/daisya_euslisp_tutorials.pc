@@ -1,0 +1,1 @@
+/home/mech-user/enshu_ws/devel/.private/daisya_euslisp_tutorials/lib/pkgconfig/daisya_euslisp_tutorials.pc

@@ -1,0 +1,5 @@
+Symlinking /home/mech-user/enshu_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig.cmake
+Symlinking /home/mech-user/enshu_ws/devel/share/turtlebot_navigation/cmake/turtlebot_navigationConfig-version.cmake
+Symlinking /home/mech-user/enshu_ws/devel/lib/turtlebot_navigation/laser_footprint_filter
+Symlinking /home/mech-user/enshu_ws/devel/lib/pkgconfig/turtlebot_navigation.pc
+Symlinking /home/mech-user/enshu_ws/devel/etc/catkin/profile.d/25.turtlebot-navigation.sh
